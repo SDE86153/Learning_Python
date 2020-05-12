@@ -1,7 +1,13 @@
 # Miscellaneous
  This is the current repository for learning Python through LinkedIn Learning.
 
-Classes_start.py:
-    Dealing with aspects of OOP for Python:
+classes_start.py:
+    Dealing with OOP:
         Inheritance
         Methods
+
+variables_start.py
+    Dealing with variables:
+        Scope
+        Overwritting
+        
