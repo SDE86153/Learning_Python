@@ -6,25 +6,25 @@ classes_start.py:
         Inheritance,
         Methods
 
-variables_start.py
+variables_start.py:
     Dealing with variables:
         Scope,
         Overwritting
 
-functions_start.py
+functions_start.py:
     Dealing with functions:
         Arguments (Variable/Static),
         Return values,
-        Default values,
+        Default values
 
-conditionals_start.py
+conditionals_start.py:
     Dealing with conditionals:
         If,
         Elif,
         Else,
         If-Else (Same line)
 
-loops_start.py
+loops_start.py:
     Dealing with loops:
         While,
         For:
@@ -32,4 +32,8 @@ loops_start.py
             Collection
         Enumeration
 
-        
+dates_start.py:
+    Dealing with datetime class:
+        Datetime Objects:
+            Date,
+            Time
