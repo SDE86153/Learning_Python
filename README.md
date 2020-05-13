@@ -24,4 +24,12 @@ conditionals_start.py
         Else,
         If-Else (Same line)
 
+loops_start.py
+    Dealing with loops:
+        While,
+        For:
+            Standard,
+            Collection
+        Enumeration
+
         
