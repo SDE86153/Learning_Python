@@ -41,3 +41,9 @@ dates_start.py:
 formatting_start.py:
     Fiddling with displaying time through datetime class:
         Varying elements of the strftime() function
+
+timedeltas_start.py:
+    Dealing with time-based calculations:
+        Addition,
+        Subtraction,
+        brief review on strftime function
