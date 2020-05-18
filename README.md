@@ -37,3 +37,7 @@ dates_start.py:
         Datetime Objects:
             Date,
             Time
+
+formatting_start.py:
+    Fiddling with displaying time through datetime class:
+        Varying elements of the strftime() function
